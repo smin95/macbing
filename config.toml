@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "/"
-languageCode = "kr"
+languageCode = "en"
 title = "Vex"
 theme = "vex-hugo"
 
