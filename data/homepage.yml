@@ -1,10 +1,10 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "MX-730"
+  content : "고음질 프리미엄 불루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
   image : "images/watch.png"
-  button: "Buy Now With $199"
+  button: "네이버에서 주문하기"
 
 ############################## product ###########################
 product:
@@ -17,20 +17,20 @@ product:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
+  title : "제품 사양"
   image : "images/watch-2.png"
 
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
-    title : "Smooth Touch"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - icon : "tf-ion-android-call"
+    title : "통화음질 개선"
+    content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
     
     # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
-    title : "Elegant Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - icon : "tf-ion-android-cancel"
+    title : "노이즈 캔슬링"
+    content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
     
     # feature item loop
   - icon : "tf-ion-ios-cart-outline"
@@ -41,9 +41,9 @@ features:
   # feature at the right of the image
   rightSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
-    title : "Smooth Touch"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - icon : "tf-ion-ios-rainy"
+    title : "생활방수"
+    content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용하실 수 있습니다."
 
     # feature item loop
   - icon : "tf-ion-ios-bell-outline"
