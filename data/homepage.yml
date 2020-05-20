@@ -43,7 +43,7 @@ features:
     # feature item loop
   - icon : "tf-ion-ios-rainy"
     title : "생활방수"
-    content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용하실 수 있습니다."
+    content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
 
     # feature item loop
   - icon : "tf-ion-ios-bell-outline"
