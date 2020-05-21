@@ -118,7 +118,7 @@ testimonial:
     # testimonial item loop
     - name : "smy8****"
       designation : "MK950 고객"
-      image : ""
+      image : "images/reviewer1.jpg"
       content : "가성비가 좋은듯하네요 아직 많이 안써봤지만 음질 및 지속적인 연결이 문제없는듯합니다."
       
     # testimonial item loop
@@ -130,5 +130,5 @@ testimonial:
     # testimonial item loop
     - name : "cshk****"
       designation : "MX730 고객"
-      image : ""
+      image : "images/reviewer1.jpg"
       content : "소리도 선명하고 잘 들려요 음악감상하기에도 무리가 없습니다."
