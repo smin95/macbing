@@ -1,24 +1,16 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "MX-730"
+  title : "MX-730 블루투스 이어폰"
   content : "고음질 프리미엄 불루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
-  image : "images/watch.png"
+  image : "images/맥빙MX730대표4.jpg"
   button: "네이버에서 주문하기"
-
-############################## product ###########################
-product:
-  name : "Smart watch"
-  image : "images/watch.png"
-  price : "199"
-  colors : ["black","white","gray"]
-  sizes : ["small","medium","large"]
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "제품 사양"
-  image : "images/watch-2.png"
+  title : "MX-730 제품 사양"
+  image : "images/맥빙MX730대표1.1.jpg"
 
   # feature at the left of the image
   leftSide:
@@ -33,9 +25,9 @@ features:
     content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
     
     # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
-    title : "Easy Pricing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - icon : "tf-ion-android-volume-up"
+    title : "폭팔적인 프리미엄 사운드"
+    content : "Realtec 8763 BFP 프리미엄 칩셋을 탑재 끊기지 않는 신호전달로 음직을 완벽하게 전달"
 
 
   # feature at the right of the image
@@ -46,21 +38,21 @@ features:
     content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
 
     # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
-    title : "Elegant Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - icon : "tf-ion-battery-full"
+    title : "배터리 용량"
+    content : "케이스 사용 시 최대 시간: 30시간"
 
     # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
-    title : "Easy Pricing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - icon : "tf-ion-bluetooth"
+    title : "편안한 자동 페어링"
+    content : "이어폰을 꺼내면 자동적으로 연결이 되고 이어폰을 넣으면 연결해제"
 
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
+  title : "Designe블 by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
             <br><br>
@@ -70,25 +62,21 @@ promo:
 ############################# About Product #######################
 aboutProduct:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "MX-700 블루투스 이어폰"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/mx700썸네일3.jpg"
+      title : "편리한 착용감과 충분한 배터리 용량"
+      content : "MX-700은 착용감이 편리하고 가볍습니다. 케이스 사용 시 최대시간은 30시간입니다."
       button:
         enable : true
         label : "Check Features"
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/mx700썸네일1.jpg"
+      title : "IPX5등급 방수와 양쪽으로 통화가 가능"
+      content : "갑자기 내리는 비에도 편리하게 사용하실 수 있고 2개의 마이크로 선명한 음질로 통화를 하실 수 있습니다. "
       button:
         enable : true
         label : "Check Features"
