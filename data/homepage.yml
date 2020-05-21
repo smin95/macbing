@@ -1,11 +1,11 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "MX-730 블루투스 이어폰: 65,000원"
+  title : "2020년 신제품: MX-730 블루투스 이어폰" 
   content : "고음질 프리미엄 불루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
-  image : "images/맥빙MX730대표4.jpg"
-  button: "네이버에서 주문하기"
-   
+  image : "images/맥빙MX730대표4.jpg" 
+  #button: "네이버에서 주문하기"
+      
 ############################# Feature ############################
 features:
   enable : true
@@ -61,8 +61,17 @@ promo:
 ############################# About Product #######################
 aboutProduct:
   enable : true
-  title : "맥빙의 다른 제품들"
+  title : "맥빙스토어에 오신 것을 환영합니다"
   items:
+   # about product item loop
+    - image : "images/맥빙MX730대표4.jpg"
+      title : "MX-730 블루투스 이어폰: 65,000원"
+      content : "기존의 이어폰은 순차적으로 신호가 전달되어 끊김이나 지연이 발생하지만 맥빙 MX-730은 양쪽 모두 매인으로 연결되어 안정적이고 빠릅니다."
+      button:
+        enable : "true"
+        label : "맥빙스토어에서 주문하기"
+        link : "https://smartstore.naver.com/macbing/products/4793902346"
+      
     # about product item loop
     - image : "images/mx700썸네일3.jpg"
       title : "MX-700 블루투스 이어폰: 54,900원"
