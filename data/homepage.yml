@@ -66,7 +66,7 @@ aboutProduct:
     # about product item loop
     - image : "images/mx700썸네일3.jpg"
       title : "MX-700 블루투스 이어폰: 54,900원"
-      content : "MX-700은 착용감이 편리하고 가볍습니다. 케이스 사용 시 최대시간은 30시간입니다. IPX5등급 방수와 양쪽으로 통화가 가능합니다."
+      content : "MX-700은 착용감이 편리하고 가벼우며, 케이스 사용 시 최대시간은 30시간입니다. IPX5등급 방수와 양쪽으로 통화가 가능합니다."
       button:
         enable : "true"
         label : "맥빙스토어에서 주문하기"
