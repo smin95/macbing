@@ -93,11 +93,11 @@ aboutProduct:
 #################################### Gallery ########################
 gallery:
   enable : true
-  title : "Checkout some amazing Shorts"
+  title : "맥빙 갤러리"
   # Set the image directory to use as base
   directory : "images/showcase"
   # Set the images to show in the gallery
-  images : ["showcase-1.png", "showcase-2.png", "showcase-3.png", "showcase-4.png", "showcase-5.png", "showcase-6.png", "showcase-7.png", "showcase-8.png"]
+  images : ["showcase-1.jpg", "showcase-2.jpg", "showcase-3.jpg", "showcase-4.jpg", "showcase-5.jpg", "showcase-6.jpg"]
 
 
 
