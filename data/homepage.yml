@@ -1,11 +1,11 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "MX-730 블루투스 이어폰"
+  title : "MX-730 블루투스 이어폰: 65,000원"
   content : "고음질 프리미엄 불루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
   image : "images/맥빙MX730대표4.jpg"
   button: "네이버에서 주문하기"
-
+   
 ############################# Feature ############################
 features:
   enable : true
@@ -55,32 +55,39 @@ promo:
   title : "Designe블 by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
 
 
 ############################# About Product #######################
 aboutProduct:
   enable : true
-  title : "MX-700 블루투스 이어폰"
+  title : "맥빙의 다른 제품들"
   items:
     # about product item loop
     - image : "images/mx700썸네일3.jpg"
-      title : "편리한 착용감과 충분한 배터리 용량"
-      content : "MX-700은 착용감이 편리하고 가볍습니다. 케이스 사용 시 최대시간은 30시간입니다."
+      title : "MX-700 블루투스 이어폰: 54,900원"
+      content : "MX-700은 착용감이 편리하고 가볍습니다. 케이스 사용 시 최대시간은 30시간입니다. IPX5등급 방수와 양쪽으로 통화가 가능합니다."
       button:
-        enable : true
-        label : "Check Features"
-        link : "#"
+        enable : "true"
+        label : "맥빙스토어에서 주문하기"
+        link : "https://smartstore.naver.com/macbing/products/4552039257"
         
     # about product item loop
     - image : "images/mx700썸네일1.jpg"
-      title : "IPX5등급 방수와 양쪽으로 통화가 가능"
+      title : "MK-950 블루투스 넥밴드: 38,900원"
       content : "갑자기 내리는 비에도 편리하게 사용하실 수 있고 2개의 마이크로 선명한 음질로 통화를 하실 수 있습니다. "
       button:
-        enable : true
-        label : "Check Features"
-        link : "#"
+        enable : "true"
+        label : "맥빙스토어에서 주문하기"
+        link : "https://smartstore.naver.com/macbing/products/3505171659"
+     # about product item loop
+    - image : "images/mx700썸네일1.jpg"
+      title : "MK-900 블루투스 넥밴드: 29,500원 "
+      content : "갑자기 내리는 비에도 편리하게 사용하실 수 있고 2개의 마이크로 선명한 음질로 통화를 하실 수 있습니다. "
+      button:
+        enable : "true"
+        label : "맥빙스토어에서 주문하기"
+        link : "https://smartstore.naver.com/macbing/products/712299864"
 
 
 #################################### Gallery ########################
@@ -96,7 +103,7 @@ gallery:
 
 ################################## call to action ###################
 cta:
-  enable : true
+  enable : false
   bgImage : "images/call-to-action.jpg"
   title : "Get Product Updates"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -106,22 +113,22 @@ cta:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "리뷰"
   testimonialItem:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "smy8****"
+      designation : "MK950 고객"
+      image : ""
+      content : "가성비가 좋은듯하네요 아직 많이 안써봤지만 음질 및 지속적인 연결이 문제없는듯합니다."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "soog****"
+      designation : "MK900 고객"
+      image : "images/reviewer1.jpg"
+      content : "세번쩨구매 ㅎㅎ 늘만족합니다! 인강들으면서 공부하는데 연결선 없어서 너무 편하고 배터리도 하루종일가서 이거 없으면 공부를 못하겠네요 이제 ㅠㅠ."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "cshk****"
+      designation : "MX730 고객"
+      image : ""
+      content : "소리도 선명하고 잘 들려요 음악감상하기에도 무리가 없습니다."
