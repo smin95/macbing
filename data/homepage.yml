@@ -16,7 +16,7 @@ features:
   leftSide:
     # feature item loop
   - icon : "tf-ion-android-call"
-    title : "통화음질 개선"
+    title : "깔끔한 통화음질"
     content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
     
     # feature item loop
@@ -34,12 +34,12 @@ features:
   rightSide:
     # feature item loop
   - icon : "tf-ion-ios-rainy"
-    title : "생활방수"
+    title : "유용한 생활방수"
     content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
 
     # feature item loop
   - icon : "tf-ion-battery-full"
-    title : "배터리 용량"
+    title : "충분한 배터리 용량"
     content : "케이스 사용 시 최대 시간: 30시간"
 
     # feature item loop
