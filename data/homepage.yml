@@ -90,7 +90,7 @@ features2:
 ######## Features 3 ######
 features3:
   enable : true
-  title3 : "MX-950 블루투스 넥밴드"
+  title3 : "MX-950 블루투스 넥밴드 (블랙/화이트)"
   image : "images/mk950_w.jpg"
 
   # feature at the left of the image
@@ -130,7 +130,7 @@ features3:
 ######## Features 4 ######
 features4:
   enable : true
-  title4 : "MX-900 블루투스 넥밴드"
+  title4 : "MX-900 블루투스 넥밴드 (블랙/화이트/핑크/실버)"
   image : "images/mk900_b.jpg"
 
   # feature at the left of the image
@@ -148,7 +148,7 @@ features4:
     # feature item loop
   - icon4 : "tf-ion-android-volume-up"
     title4 : "입체적 프리미엄 사운드"
-    content4 : "프리미엄 튜닝한 10 mm 다이내믹 드라이버를 내장해 풍부하고 명료한 사운드를 구현가능 "
+    content4 : "프리미엄 튜닝한 10 mm 다이내믹 ㅎㅎ드라이버를 내장해 풍부하고 명료한 사운드를 구현가능 "
 
   # feature at the right of the image
   rightSide:
