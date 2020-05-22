@@ -224,7 +224,9 @@ gallery:
   # Set the image directory to use as base
   directory : "images/showcase"
   # Set the images to show in the gallery
-  images : ["showcase-1.jpg", "showcase-2.jpg", "showcase-3.jpg", "showcase-4.jpg", "showcase-5.jpg", "showcase-6.jpg"]
+  images : ["showcase-1.jpg", "showcase-2.jpg", "showcase-3.jpg", 
+  "showcase-4.jpg", "showcase-5.jpg", "showcase-6.jpg",
+  "showcase-7.jpg", "showcase-8.jpg", "showcase-9.jpg", "showcase-10.jpg"]
 
 
 
