@@ -48,6 +48,130 @@ features:
     content : "이어폰을 꺼내면 자동적으로 연결이 되고 이어폰을 넣으면 연결해제"
 
 
+############################# Feature ############################
+features:
+  enable : true
+  title : "MX-730 제품 사양"
+  image : "images/맥빙MX730대표1.1.jpg"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item loop
+  - icon : "tf-ion-android-call"
+    title : "깔끔한 통화음질"
+    content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+    
+    # feature item loop
+  - icon : "tf-ion-android-cancel"
+    title : "노이즈 캔슬링"
+    content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
+    
+    # feature item loop
+  - icon : "tf-ion-android-volume-up"
+    title : "폭팔적인 프리미엄 사운드"
+    content : "Realtec 8763 BFP 프리미엄 칩셋을 탑재 끊기지 않는 신호전달로 음직을 완벽하게 전달"
+
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon : "tf-ion-ios-rainy"
+    title : "유용한 생활방수"
+    content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
+
+    # feature item loop
+  - icon : "tf-ion-battery-full"
+    title : "충분한 배터리 용량"
+    content : "케이스 사용 시 최대 시간: 30시간"
+
+    # feature item loop
+  - icon : "tf-ion-bluetooth"
+    title : "편안한 자동 페어링"
+    content : "이어폰을 꺼내면 자동적으로 연결이 되고 이어폰을 넣으면 연결해제"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "MX-730 제품 사양"
+  image : "images/맥빙MX730대표1.1.jpg"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item loop
+  - icon : "tf-ion-android-call"
+    title : "깔끔한 통화음질"
+    content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+    
+    # feature item loop
+  - icon : "tf-ion-android-cancel"
+    title : "노이즈 캔슬링"
+    content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
+    
+    # feature item loop
+  - icon : "tf-ion-android-volume-up"
+    title : "폭팔적인 프리미엄 사운드"
+    content : "Realtec 8763 BFP 프리미엄 칩셋을 탑재 끊기지 않는 신호전달로 음직을 완벽하게 전달"
+
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon : "tf-ion-ios-rainy"
+    title : "유용한 생활방수"
+    content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
+
+    # feature item loop
+  - icon : "tf-ion-battery-full"
+    title : "충분한 배터리 용량"
+    content : "케이스 사용 시 최대 시간: 30시간"
+
+    # feature item loop
+  - icon : "tf-ion-bluetooth"
+    title : "편안한 자동 페어링"
+    content : "이어폰을 꺼내면 자동적으로 연결이 되고 이어폰을 넣으면 연결해제"
+
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "MX-730 제품 사양"
+  image : "images/맥빙MX730대표1.1.jpg"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item loop
+  - icon : "tf-ion-android-call"
+    title : "깔끔한 통화음질"
+    content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+    
+    # feature item loop
+  - icon : "tf-ion-android-cancel"
+    title : "노이즈 캔슬링"
+    content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
+    
+    # feature item loop
+  - icon : "tf-ion-android-volume-up"
+    title : "폭팔적인 프리미엄 사운드"
+    content : "Realtec 8763 BFP 프리미엄 칩셋을 탑재 끊기지 않는 신호전달로 음직을 완벽하게 전달"
+
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon : "tf-ion-ios-rainy"
+    title : "유용한 생활방수"
+    content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
+
+    # feature item loop
+  - icon : "tf-ion-battery-full"
+    title : "충분한 배터리 용량"
+    content : "케이스 사용 시 최대 시간: 30시간"
+
+    # feature item loop
+  - icon : "tf-ion-bluetooth"
+    title : "편안한 자동 페어링"
+    content : "이어폰을 꺼내면 자동적으로 연결이 되고 이어폰을 넣으면 연결해제"
+
 ############################# promo ############################
 promo:
   enable : false
