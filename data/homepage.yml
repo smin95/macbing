@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "2020년 신제품: MX-730 블루투스 이어폰" 
+  title : "올해의 신제품: MX-730 블루투스 이어폰" 
   content : "고음질 프리미엄 불루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
-  image : "images/맥빙MX730대표4.jpg" 
+  image : "images/mx730.jpg" 
   #button: "네이버에서 주문하기"
       
 ############################# Feature ############################
@@ -15,19 +15,19 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "tf-ion-android-call"
-    title : "깔끔한 통화음질"
-    content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+  - icon : "tf-ion-bluetooth"
+    title : "멀티캐스팅"
+    content : "좌/우 이어폰들이 독립적으로 블루투스 연결 가능"
     
     # feature item loop
   - icon : "tf-ion-android-cancel"
     title : "노이즈 캔슬링"
-    content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
+    content : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능"
     
     # feature item loop
-  - icon : "tf-ion-android-volume-up"
-    title : "폭팔적인 프리미엄 사운드"
-    content : "Realtec 8763 BFP 프리미엄 칩셋을 탑재 끊기지 않는 신호전달로 음직을 완벽하게 전달"
+  - icon : "tf-ion-ios-checkmark"
+    title : "초경량 3.9g"
+    content : "가볍고 편안함 착용감, 컴팩트한 무게감"
 
 
   # feature at the right of the image
@@ -38,17 +38,134 @@ features:
     content : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
 
     # feature item loop
-  - icon : "tf-ion-battery-full"
-    title : "충분한 배터리 용량"
-    content : "케이스 사용 시 최대 시간: 30시간"
+  - icon : "tf-ion-android-call"
+    title : "깔끔한 통화음질"
+    content : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
 
     # feature item loop
-  - icon : "tf-ion-bluetooth"
-    title : "편안한 자동 페어링"
-    content : "이어폰을 꺼내면 자동적으로 연결이 되고 이어폰을 넣으면 연결해제"
+  - icon : "tf-ion-chatbubble-working"
+    title : "한국어 지원"
+    content : "정확한 한국어 발음으로 음성 지원 제공"
 
-  enable: True
-  title: "MX-700"
+######## Features 2 ######
+features2:
+  enable : true
+  title2 : "MX-700 블루투스 이어폰"
+  image : "images/mx700썸네일3.jpg"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item loop
+  - icon2 : "tf-ion-battery-full"
+    title2 : "충분한 배터리 용량"
+    content2 : "케이스 사용 시 최대 시간: 30시간"
+
+    # feature item loop
+  - icon2 : "tf-ion-android-cancel"
+    title2 : "노이즈 캔슬링"
+    content2 : "노이즈 캔슬링이 되도록 제작되어 선명한 통화음질이 유지 가능 "
+    
+    # feature item loop
+  - icon2 : "tf-ion-ios-checkmark"
+    title2 : "초경량 3.9g"
+    content2 : "가볍고 편안함 착용감, 컴팩트한 무게감"
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon2 : "tf-ion-ios-rainy"
+    title2 : "유용한 생활방수"
+    content2 : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
+
+    # feature item loop
+  - icon2 : "tf-ion-android-call"
+    title2 : "깔끔한 통화음질"
+    content2 : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+
+    # feature item loop
+  - icon2 : "tf-ion-chatbubble-working"
+    title2 : "한국어 지원"
+    content2 : "정확한 한국어 발음으로 음성 지원 제공"
+
+######## Features 3 ######
+features3:
+  enable : true
+  title3 : "MX-950 블루투스 넥밴드"
+  image : "images/mk950_w.jpg"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item lopo
+  - icon3 : "tf-ion-android-arrow-forward"
+    title3 : "편리한 원터지 자동 줄감기"
+    content3 : "선꼬임 방지를 위한 자동 줄감기 기능으로 보다 깔끔하게 선정리가 가능"
+
+    # feature item loop
+  - icon3 : "tf-ion-ios-checkmark"
+    title3 : "휴대성 높은 폴더형 디자인"
+    content3 : "접이식 밴드 디자인으로 부피를 최소화하고 가벼운 무데감으로 휴대 및 보관이 간편함"
+    
+    # feature item loop
+  - icon3 : "tf-ion-android-volume-up"
+    title3 : "입체적 프리미엄 사운드"
+    content3 : "프리미엄 튜닝한 10 mm 다이내믹 드라이버를 내장해 풍부하고 명료한 사운드를 구현가능 "
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon3 : "tf-ion-ios-rainy"
+    title3 : "유용한 생활방수"
+    content3 : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
+
+    # feature item loop
+  - icon3 : "tf-ion-android-call"
+    title3 : "깔끔한 통화음질"
+    content3 : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+
+    # feature item loop
+  - icon3 : "tf-ion-chatbubble-working"
+    title3 : "한국어 지원"
+    content3 : "정확한 한국어 발음으로 음성 지원 제공"
+    
+######## Features 4 ######
+features4:
+  enable : true
+  title4 : "MX-900 블루투스 넥밴드"
+  image : "images/mk900_b.jpg"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item lopo
+  - icon4 : "tf-ion-android-arrow-forward"
+    title4 : "편리한 원터지 자동 줄감기"
+    content4 : "선꼬임 방지를 위한 자동 줄감기 기능으로 깔끔하게 선정리가 가능"
+
+    # feature item loop
+  - icon4 : "tf-ion-ios-checkmark"
+    title4 : "휴대성 높은 폴더형 디자인"
+    content4 : "접이식 밴드 디자인으로 부피를 최소화하고 가벼운 무데감으로 휴대 및 보관이 간편함"
+    
+    # feature item loop
+  - icon4 : "tf-ion-android-volume-up"
+    title4 : "입체적 프리미엄 사운드"
+    content4 : "프리미엄 튜닝한 10 mm 다이내믹 드라이버를 내장해 풍부하고 명료한 사운드를 구현가능 "
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon4 : "tf-ion-ios-rainy"
+    title4 : "유용한 생활방수"
+    content4 : "IPX5등급은 비가 내리는 경우에도 편안하게 사용 가능"
+
+    # feature item loop
+  - icon4 : "tf-ion-android-call"
+    title4 : "깔끔한 통화음질"
+    content4 : "마이크가 입과 더욱 가까이 밀찰되도록 제작되어 통화 시 음성 전달이 더욱 선명"
+
+    # feature item loop
+  - icon4 : "tf-ion-chatbubble-working"
+    title4 : "한국어 지원"
+    content4 : "정확한 한국어 발음으로 음성 지원 제공"
 ############################# promo ############################
 promo:
   enable : false
@@ -65,7 +182,7 @@ aboutProduct:
   title : "맥빙스토어에 오신 것을 환영합니다"
   items:
    # about product item loop
-    - image : "images/맥빙MX730대표4.jpg"
+    - image : "images/맥빙MX730대표3.jpg"
       title : "MX-730 블루투스 이어폰"
       content : "기존의 이어폰은 순차적으로 신호가 전달되어 끊김이나 지연이 발생하지만 맥빙 MX-730은 양쪽 모두 매인으로 연결되어 안정적이고 빠릅니다."
       button:
@@ -74,7 +191,7 @@ aboutProduct:
         link : "https://smartstore.naver.com/macbing/products/4793902346"
       
     # about product item loop
-    - image : "images/mx700썸네일3.jpg"
+    - image : "images/mx700썸네일1.jpg"
       title : "MX-700 블루투스 이어폰"
       content : "MX-700은 착용감이 편리하고 가벼우며, 케이스 사용 시 최대시간은 30시간입니다. IPX5등급 방수와 양쪽으로 통화가 가능합니다."
       button:
@@ -83,17 +200,17 @@ aboutProduct:
         link : "https://smartstore.naver.com/macbing/products/4552039257"
         
     # about product item loop
-    - image : "images/mx700썸네일1.jpg"
+    - image : "images/mk950.jpg"
       title : "MK-950 블루투스 넥밴드"
-      content : "갑자기 내리는 비에도 편리하게 사용하실 수 있고 2개의 마이크로 선명한 음질로 통화를 하실 수 있습니다. "
+      content : "10mm 다이나믹 드라이머 유닛 적용으로 풍부한 음질과 폭넓은 음역대의 향상된 오디오 성능을 느끼실 수 있습니다."
       button:
         enable : "true"
         label : "맥빙스토어에서 주문하기"
         link : "https://smartstore.naver.com/macbing/products/3505171659"
      # about product item loop
-    - image : "images/mx700썸네일1.jpg"
+    - image : "images/mk900.jpg"
       title : "MK-900 블루투스 넥밴드"
-      content : "갑자기 내리는 비에도 편리하게 사용하실 수 있고 2개의 마이크로 선명한 음질로 통화를 하실 수 있습니다. "
+      content : "선꼬임 방지를 위한 자동 줄감기 기능으로 보다 깔끔하게 선정리가 가능하며, 줄감기시 이어크래들내에 실리콘재질은 충격을 완화시켜 안전하게 이어폰을 보관할 수 있습니다."
       button:
         enable : "true"
         label : "맥빙스토어에서 주문하기"

@@ -12,11 +12,11 @@ URL = "https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:
 [[params.plugins.css]]
 URL = "https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
-URL = "css/bootstrap.min.css"
+URL = "css/bootstrap.min.css" # 구조 
 [[params.plugins.css]]
-URL = "css/themefisher-fonts.css"
+URL = "css/themefisher-fonts.css" # 돋보기 
 [[params.plugins.css]]
-URL = "css/owl.carousel.css"
+URL = "css/owl.carousel.css" # gallery
 [[params.plugins.css]]
 URL = "css/magnific-popup.css"
 [[params.plugins.css]]
@@ -46,12 +46,6 @@ weight = 2
 name = "갤러리"
 URL = "gallery"
 weight = 3
-
-[[menu.main]]
-name = "리뷰"
-URL = "testimonial"
-weight = 4
-
 
 ########################### Default parameters ##########################
 [params]
