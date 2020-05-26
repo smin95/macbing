@@ -221,8 +221,7 @@ aboutProduct:
 gallery:
   enable : true
   title : "맥빙 갤러리"
-  hashtag : "#맥빙 #macbing #맥빙블루투스이어폰 #맥빙무선이어폰"
-  hashtag2: "#맥빙넥밴드이어폰 #맥빙넥밴드"
+  hashtag : "#맥빙 #macbing #맥빙블루투스이어폰 #맥빙무선이어폰 #맥빙넥밴드이어폰 #맥빙넥밴드"
   # Set the image directory to use as base
   directory : "images/showcase"
   # Set the images to show in the gallery
