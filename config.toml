@@ -59,10 +59,12 @@ google_analitycs_id = "" # Your ID
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 # copyright
-copyright = "Copyright 2020 &copy; <br /> MACBING | All right reserved."
+copyright = """\
+주식회사 맥빙 \
+경기도 고양시 일산동구 정갈산로 24 웨스턴타워 4동410호\
+Tel: 031-901-7260\
+"""
 
-address = "주식회사 맥빙 경기도 고양시 일산동구 정갈산로 24 웨스턴타워 4동410호"
-phone = "Tel: 031-901-7260"
 # Preloader
 [params.preloader]
 enable = true
