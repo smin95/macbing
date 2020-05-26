@@ -1,15 +1,15 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "올해의 신제품: MX-730 블루투스 이어폰" 
-  content : "고음질 프리미엄 불루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
+  title : "맥빙 최신형 MX730 블루투스 이어폰"
+  content : "고음질 프리미엄 블루투스 이어폰 MX730은 선명해진 사운드를 제공하고 통화음질이 더욱 깨끗하게 업그레이드 되었습니다."
   image : "images/mx730.jpg" 
   #button: "네이버에서 주문하기"
       
 ############################# Feature ############################
 features:
   enable : true
-  title : "MX-730 제품 사양"
+  title : "맥빙 MX730 제품 사양"
   image : "images/맥빙MX730대표1.1.jpg"
 
   # feature at the left of the image
@@ -50,7 +50,7 @@ features:
 ######## Features 2 ######
 features2:
   enable : true
-  title2 : "MX-700 블루투스 이어폰"
+  title2 : "맥빙 MX700 블루투스 이어폰"
   image : "images/mx700썸네일3.jpg"
 
   # feature at the left of the image
@@ -90,7 +90,7 @@ features2:
 ######## Features 3 ######
 features3:
   enable : true
-  title3 : "MX-950 블루투스 넥밴드 (블랙/화이트)"
+  title3 : "맥빙 MK950 넥밴드 블루투스 이어폰" #색깔은 smaller font 영어 
   image : "images/mk950_w.jpg"
 
   # feature at the left of the image
@@ -102,7 +102,7 @@ features3:
 
     # feature item loop
   - icon3 : "tf-ion-ios-checkmark"
-    title3 : "휴대성 높은 폴더형 디자인"
+    title3 : "휴대성 높은 폴더형 디자인 (Black/White)"
     content3 : "접이식 밴드 디자인으로 부피를 최소화하고 가벼운 무데감으로 휴대 및 보관이 간편함"
     
     # feature item loop
@@ -130,7 +130,7 @@ features3:
 ######## Features 4 ######
 features4:
   enable : true
-  title4 : "MX-900 블루투스 넥밴드 (블랙/화이트/핑크/실버)"
+  title4 : "맥빙 MK900 넥밴드 블루투스 이어폰" #색깔은 smaller font 영어 
   image : "images/mk900_b.jpg"
 
   # feature at the left of the image
@@ -142,7 +142,7 @@ features4:
 
     # feature item loop
   - icon4 : "tf-ion-ios-checkmark"
-    title4 : "휴대성 높은 폴더형 디자인"
+    title4 : "휴대성 높은 폴더형 디자인 (Black/White/Silver/Pink)"
     content4 : "접이식 밴드 디자인으로 부피를 최소화하고 가벼운 무데감으로 휴대 및 보관이 간편함"
     
     # feature item loop
@@ -183,8 +183,8 @@ aboutProduct:
   items:
    # about product item loop
     - image : "images/맥빙MX730대표3.jpg"
-      title : "MX-730 블루투스 이어폰"
-      content : "기존의 이어폰은 순차적으로 신호가 전달되어 끊김이나 지연이 발생하지만 맥빙 MX-730은 양쪽 모두 매인으로 연결되어 안정적이고 빠릅니다."
+      title : "MX730 블루투스 이어폰"
+      content : "기존의 이어폰은 순차적으로 신호가 전달되어 끊김이나 지연이 발생하지만 맥빙 MX730은 양쪽 모두 매인으로 연결되어 안정적이고 빠릅니다."
       button:
         enable : "true"
         label : "맥빙스토어에서 주문하기"
@@ -192,7 +192,7 @@ aboutProduct:
       
     # about product item loop
     - image : "images/mx700썸네일1.jpg"
-      title : "MX-700 블루투스 이어폰"
+      title : "MX700 블루투스 이어폰"
       content : "MX-700은 착용감이 편리하고 가벼우며, 케이스 사용 시 최대시간은 30시간입니다. IPX5등급 방수와 양쪽으로 통화가 가능합니다."
       button:
         enable : "true"
@@ -201,7 +201,7 @@ aboutProduct:
         
     # about product item loop
     - image : "images/mk950.jpg"
-      title : "MK-950 블루투스 넥밴드"
+      title : "MK950 넥밴드 블루투스 이어폰"
       content : "10mm 다이나믹 드라이머 유닛 적용으로 풍부한 음질과 폭넓은 음역대의 향상된 오디오 성능을 느끼실 수 있습니다."
       button:
         enable : "true"
@@ -209,7 +209,7 @@ aboutProduct:
         link : "https://smartstore.naver.com/macbing/products/3505171659"
      # about product item loop
     - image : "images/mk900.jpg"
-      title : "MK-900 블루투스 넥밴드"
+      title : "MK900 넥밴드 블루투스 이어폰"
       content : "선꼬임 방지를 위한 자동 줄감기 기능으로 보다 깔끔하게 선정리가 가능하며, 줄감기시 이어크래들내에 실리콘재질은 충격을 완화시켜 안전하게 이어폰을 보관할 수 있습니다."
       button:
         enable : "true"
@@ -221,6 +221,8 @@ aboutProduct:
 gallery:
   enable : true
   title : "맥빙 갤러리"
+  hashtag : "#맥빙 #macbing #맥빙블루투스이어폰 #맥빙무선이어폰"
+  hashtag2: "#맥빙넥밴드이어폰 #맥빙넥밴드"
   # Set the image directory to use as base
   directory : "images/showcase"
   # Set the images to show in the gallery
@@ -258,6 +260,6 @@ testimonial:
       
     # testimonial item loop
     - name : "cshk****"
-      designation : "MX-730 고객"
+      designation : "MX730 고객"
       image : "images/reviewer1.jpg"
       content : "소리도 선명하고 잘 들려요 음악감상하기에도 무리가 없습니다."

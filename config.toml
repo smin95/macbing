@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "/"
 languageCode = "en"
-title = "MACBING"
+title = "MACBING 맥빙"
 theme = "vex-hugo"
 
 #################################### Plugins ##########################################
@@ -59,7 +59,7 @@ google_analitycs_id = "" # Your ID
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 # copyright
-copyright = "Copyright 2020 &copy; MACBING | All right reserved."
+copyright = "Copyright 2020 &copy; MACBING | All right reserved. 주식회사 맥빙 경기도 고양시 일산동구 정갈산로 24  웨스턴타워 4동410호 Tel  031-901-7260"
 
 # Preloader
 [params.preloader]
