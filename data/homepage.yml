@@ -10,7 +10,7 @@ banner:
 features:
   enable : true
   title : "MX-730 제품 사양"
-  image : "images/맥빙MX730대표1.1.jpg"
+  image : "images/mx730.jpg"
 
   # feature at the left of the image
   leftSide:
@@ -148,7 +148,7 @@ features4:
     # feature item loop
   - icon4 : "tf-ion-android-volume-up"
     title4 : "입체적 프리미엄 사운드"
-    content4 : "프리미엄 튜닝한 10 mm 다이내믹 ㅎㅎ드라이버를 내장해 풍부하고 명료한 사운드를 구현가능 "
+    content4 : "프리미엄 튜닝한 10 mm 다이내믹 드라이버를 내장해 풍부하고 명료한 사운드를 구현가능 "
 
   # feature at the right of the image
   rightSide:
