@@ -52,7 +52,7 @@ weight = 3
 logo = ""
 home = "홈"
 # Meta data
-description = "This is meta description"
+description = ""
 author = "Themefisher"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
